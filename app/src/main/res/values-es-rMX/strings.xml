@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Desenredar</string>
+    <string name="instructions">Desenreda la palabra utilizando todas las letras.</string>
+    <string name="skip">Saltar</string>
+    <string name="submit">Enviar</string>
+    <string name="score">Puntaje: %d</string>
+    <string name="enter_your_word">Escribe la palabra</string>
+    <string name="congratulations">¡Felicidades!</string>
+    <string name="you_scored">Tu puntuación: %d</string>
+    <string name="exit">Salir</string>
+    <string name="play_again">Jugar de nuevo</string>
+    <string name="wrong_guess">¡Palabra Equivocada!</string>
+
+    <string-array name="words">
+        <item>animal</item>
+        <item>auto</item>
+        <item>anécdota</item>
+        <item>alfabeto</item>
+        <item>todos</item>
+        <item>genial</item>
+        <item>levántate</item>
+        <item>globo</item>
+        <item>canasta</item>
+        <item>banco</item>
+        <item>mejor</item>
+        <item>cumpleaños</item>
+        <item>libro</item>
+        <item>maletín</item>
+        <item>cámara</item>
+        <item>acampar</item>
+        <item>vela</item>
+        <item>gato</item>
+        <item>coliflor</item>
+        <item>charlar</item>
+        <item>niños</item>
+        <item>clase</item>
+        <item>clásico</item>
+        <item>aula</item>
+        <item>café</item>
+        <item>colorido</item>
+        <item>galleta</item>
+        <item>creativo</item>
+        <item>crucero</item>
+        <item>baile</item>
+        <item>durante el día</item>
+        <item>dinosaurio</item>
+        <item>pomo de la puerta</item>
+        <item>cenar</item>
+        <item>sueño</item>
+        <item>atardecer</item>
+        <item>comer</item>
+        <item>elefante</item>
+        <item>esmeralda</item>
+        <item>espeluznante</item>
+        <item>eléctrico</item>
+        <item>acabado</item>
+        <item>flores</item>
+        <item>seguir</item>
+        <item>zorro</item>
+        <item>marco</item>
+        <item>gratis</item>
+        <item>frecuente</item>
+        <item>embudo</item>
+        <item>verde</item>
+        <item>guitarra</item>
+        <item>tienda de comestibles</item>
+        <item>vaso</item>
+        <item>genial</item>
+        <item>risa</item>
+        <item>corte de pelo</item>
+        <item>medio</item>
+        <item>hecho en casa</item>
+        <item>suceder</item>
+        <item>miel</item>
+        <item>apúrate</item>
+        <item>cien</item>
+        <item>hielo</item>
+        <item>iglú</item>
+        <item>invertir</item>
+        <item>invitar</item>
+        <item>icono</item>
+        <item>presentar</item>
+        <item>broma</item>
+        <item>jovial</item>
+        <item>diario</item>
+        <item>saltar</item>
+        <item>unirse</item>
+        <item>canguro</item>
+        <item>teclado</item>
+        <item>cocina</item>
+        <item>koala</item>
+        <item>amable</item>
+        <item>caleidoscopio</item>
+        <item>paisaje</item>
+        <item>tarde</item>
+        <item>reír</item>
+        <item>aprendizaje</item>
+        <item>limón</item>
+        <item>carta</item>
+        <item>lirio</item>
+        <item>revista</item>
+        <item>marina</item>
+        <item>malvavisco</item>
+        <item>laberinto</item>
+        <item>meditar</item>
+        <item>melodía</item>
+        <item>minuto</item>
+        <item>monumento</item>
+        <item>luna</item>
+        <item>motocicleta</item>
+        <item>montaña</item>
+        <item>música</item>
+        <item>norte</item>
+        <item>nariz</item>
+        <item>noche</item>
+        <item>nombre</item>
+        <item>nunca</item>
+        <item>negociar</item>
+        <item>número</item>
+        <item>opuesto</item>
+        <item>pulpo</item>
+        <item>roble</item>
+        <item>orden</item>
+        <item>abierto</item>
+        <item>polar</item>
+        <item>paquete</item>
+        <item>pintura</item>
+        <item>persona</item>
+        <item>picnic</item>
+        <item>almohada</item>
+        <item>pizza</item>
+        <item>podcast</item>
+        <item>presentación</item>
+        <item>cachorro</item>
+        <item>rompecabezas</item>
+        <item>receta</item>
+        <item>liberación</item>
+        <item>restaurante</item>
+        <item>girar</item>
+        <item>rebobinar</item>
+        <item>habitación</item>
+        <item>correr</item>
+        <item>secreto</item>
+        <item>semilla</item>
+        <item>barco</item>
+        <item>camiseta</item>
+        <item>debería</item>
+        <item>pequeño</item>
+        <item>nave espacial</item>
+        <item>observación de estrellas</item>
+        <item>habilidad</item>
+        <item>calle</item>
+        <item>estilo</item>
+        <item>amanecer</item>
+        <item>taxi</item>
+        <item>ordenado</item>
+        <item>temporizador</item>
+        <item>juntos</item>
+        <item>diente</item>
+        <item>turista</item>
+        <item>viaje</item>
+        <item>camión</item>
+        <item>debajo</item>
+        <item>útil</item>
+        <item>unicornio</item>
+        <item>único</item>
+        <item>elevación</item>
+        <item>uniforme</item>
+        <item>jarrón</item>
+        <item>violín</item>
+        <item>visitante</item>
+        <item>visión</item>
+        <item>volumen</item>
+        <item>vista</item>
+        <item>morsa</item>
+        <item>vagar</item>
+        <item>mundo</item>
+        <item>invierno</item>
+        <item>pozo</item>
+        <item>torbellino</item>
+        <item>rayos x</item>
+        <item>xilófono</item>
+        <item>yoga</item>
+        <item>yogur</item>
+        <item>yoyo</item>
+        <item>tú</item>
+        <item>año</item>
+        <item>delicioso</item>
+        <item>cebra</item>
+        <item>zigzag</item>
+        <item>zoología</item>
+        <item>zona</item>
+        <item>celo</item>
+    </string-array>
+</resources>
